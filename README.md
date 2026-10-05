@@ -17,4 +17,4 @@ Aplicación web frontend interactiva de comercio electrónico para la **TIENDA P
 1. **Clonar el repositorio:**
    ```bash
    git clone https://github.com/davidarce0109-sketch/Reto-Practico_React.git
-   cd tienda-palmira
+   cd Reto-Practico_React
